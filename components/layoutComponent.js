@@ -14,7 +14,7 @@ class Layout extends Component {
     return (
       <div>
         <h2>{this.state.title}</h2>
-        <p className="large-font">Testing testing I'm just suggesting!!</p>
+        <p className="large-font">Test</p>
       </div>
     );
   }
